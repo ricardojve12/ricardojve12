@@ -2,7 +2,7 @@
 <h1 tex-align="center"><b>Hi , I'm Richard JV </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p text-align="center" width = 250px height= 250px >
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=34F718E6&duration=2000&size=45&center=true&vCenter=true&padding=0%&width=600&height=100&multiline=true&lines=Bienvenidos+a..+;❤️EL+SALVADOR❤️&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=34F718E6&duration=2000&size=35&center=true&vCenter=true&padding=0%&width=600&height=100&multiline=true&lines=Bienvenidos+a..+;❤️EL+SALVADOR❤️&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
