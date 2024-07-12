@@ -1,11 +1,11 @@
-<h1 style="text-align:center;" ><b style="color: #7bff00 ; text-align: center;">🥷Hi , I'm Richard JV </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 style="text-align:center;" ><b style="color: #7bff00 ; text-align: center;"><img src="https://cultofthepartyparrot.com/flags/hd/elsalvadorparrot.gif"> <h1>Hi , I'm Richard JV</h1> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <!--  -->
 <p style="text-align: center;">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=34F718E6&duration=2000&size=35&center=true&vCenter=true&padding=0%&width=600&height=100&multiline=false&lines=🤖+WELCOME...;☕+TO.+.+.+.+.;EL+SALVADOR;DEVELOPERS+🕶️&hearts;"></a>
 </p>
-
+ 
 
 <br>
 	
@@ -13,29 +13,9 @@
 <br>
 
 <p style="text-align: left;">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=34F718E6&duration=6000&size=28&center=false&vCenter=true&padding=0%&width=600&height=50&multiline=false&lines=📁Portfolio.+.;" ><br> <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=34F718E6&duration=6000&size=28&center=false&vCenter=true&padding=0%&width=600&height=50&multiline=false&lines=🤖Other#.+.+.+.;"><br> <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=34F718E6&duration=6000&size=28&center=false&vCenter=true&padding=0%&width=600&height=50&multiline=false&lines=📁Hobbies.+.+.+.;"></a>
+    <a href="https://github.com/ricardojve12/EL-SALVADOR"><img  src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=34F718E6&duration=6000&size=28&center=false&vCenter=true&padding=0%&width=600&height=50&multiline=false&lines=📁Portfolio.+.;" ><br> <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=34F718E6&duration=6000&size=28&center=false&vCenter=true&padding=0%&width=600&height=50&multiline=false&lines=📁Hobbies#.+.+.+.;"><br> <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=34F718E6&duration=6000&size=28&center=false&vCenter=true&padding=0%&width=600&height=50&multiline=false&lines=📁Others.+.+.+.;"></a>
   </p>
 
-  <b><span>
-    <h1 style="text-align:center";><span style="background-color:black;"><font color="red">▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
-    ▒▒▒▒▒▒▒▒▄▄▄▄▄▄▄▄▒▒▒▒▒▒
-    ▒▒█▒▒▒▄██████████▄▒▒▒▒
-    ▒█▐▒▒▒████████████▒▒▒▒
-    ▒▌▐▒▒██▄▀██████▀▄██▒▒▒
-    ▐┼▐▒▒██▄▄▄▄██▄▄▄▄██▒▒▒
-    ▐┼▐▒▒██████████████▒▒▒
-    ▐▄▐████─▀▐▐▀█─█─▌▐██▄▒
-    ▒▒█████──────────▐███▌
-    ▒▒█▀▀██▄█─▄───▐─▄███▀▒
-    ▒▒█▒▒███████▄██████▒▒▒
-    ▒▒▒▒▒██████████████▒▒▒
-    ▒▒▒▒▒██████████████▒▒▒
-    ▒▒▒▒▒█████████▐▌██▌▒▒▒
-    ▒▒▒▒▒▐▀▐▒▌▀█▀▒▐▒█▒▒▒▒▒
-    ▒▒▒▒▒▒▒▒▒▒▒▐▒▒▒▒▌▒▒▒▒▒
-    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
-    </font><font color="lime">🇩🇪🇩🇪🇩🇪🙄NO MIRONES🙄🇩🇪🇩🇪🇩🇪
-   </font> </span>
 
 - A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
