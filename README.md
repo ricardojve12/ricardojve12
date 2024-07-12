@@ -1,9 +1,9 @@
-<h1 style="text-align:center;" ><b style="color: #7bff00 ; text-align: center;"><img src="https://cultofthepartyparrot.com/flags/hd/elsalvadorparrot.gif" width="35"> Hi , I'm Richard JV </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 style="text-align: center;" ><b style="color: #7bff00 ; text-align: center;"><img src="https://cultofthepartyparrot.com/flags/hd/elsalvadorparrot.gif" width="35"> Hi , I'm Richard JV </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <!--  -->
 <p style="text-align: center;">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=34F718E6&duration=2000&size=35&center=true&vCenter=true&padding=0%&width=600&height=100&multiline=false&lines=🤖+WELCOME...;☕+TO.+.+.+.+.;EL+SALVADOR;DEVELOPERS+🕶️&hearts;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=34F718E6&duration=2000&size=35&center=true&vCenter=true&padding=0%&width=600&height=100&multiline=false&lines=🤖+WELCOME...;☕+TO.+.+.+.+.;EL+SALVADOR;DEVELOPERS+🕶️;"></a>
 </p>
  
 
@@ -30,7 +30,7 @@
 
 
 <li>
-<a href="www.linkedin.com/in/ricardo-josé-vega-garcia-909857221" target="_blank">
+<a href="https://www.linkedin.com/in/ricardo-josé-vega-garcia-909857221" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -46,7 +46,7 @@
 <br>
 
 <li>
-<a href="richard:ricardojve12@gmail.com" target="_blank">
+<a href="https://ricardojve12@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
